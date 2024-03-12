@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da88544-da55-425f-ab8c-213556d1bd28" name="Changes" comment="initial commit" />
+    <list default="true" id="0da88544-da55-425f-ab8c-213556d1bd28" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CalculatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Manipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator1Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NumberManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberManipulator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,12 +37,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Jelizaveta/Koolituse_dokumentatsioon/AutomationTesting/QA/homework02"
+    "last_opened_file_path": "C:/Jelizaveta/Koolituse_dokumentatsioon/AutomationTesting/homework02"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Calculator1Model">
-    <configuration name="Calculator1Model" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Calculator1Model" />
+  <component name="RunManager" selected="Application.Manipulator">
+    <configuration name="CalculatorModel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CalculatorModel" />
       <module name="homework02" />
       <extension name="coverage">
         <pattern>
@@ -60,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+    <configuration name="FigureObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.FigureObject" />
       <module name="homework02" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberManipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.NumberManipulator" />
+    <configuration name="Manipulator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Manipulator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manipulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Manipulator" />
       <module name="homework02" />
       <extension name="coverage">
         <pattern>
@@ -88,10 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator1Model" />
-        <item itemvalue="Application.NumberManipulator" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Manipulator" />
+        <item itemvalue="Application.Manipulator (1)" />
+        <item itemvalue="Application.CalculatorModel" />
         <item itemvalue="Application.Car1Model" />
+        <item itemvalue="Application.FigureObject" />
       </list>
     </recent_temporary>
   </component>
