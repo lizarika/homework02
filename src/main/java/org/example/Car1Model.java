@@ -9,13 +9,12 @@ public class Car1Model {
         Car1Model.year = 1999;
         Car1Model.brand = "Brand X";
 
-        Car1Model.startEngine();
-        Car1Model.stopEngine();
-
         System.out.println(Car1Model.model );
         System.out.println(Car1Model.year );
         System.out.println(Car1Model.brand );
 
+        Car1Model.startEngine();
+        Car1Model.stopEngine();
     }
 
 }
